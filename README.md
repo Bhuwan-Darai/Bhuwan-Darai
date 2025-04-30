@@ -15,6 +15,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Bhuwan-Darai&theme=radical)
+
 ## 📈 GitHub Stats
-![Bhuwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan-darai&show_icons=true&theme=radical)
+![Bhuwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuwan-Darai&show_icons=true&theme=radical)
 
