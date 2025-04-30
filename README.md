@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Bhuwan-Darai/Bhuwan-Darai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Bhuwan Darai
 
-Here are some ideas to get you started:
+🎓 B.Ed IT Graduate from Tribhuwan University  
+💼 Working at Inpro Academy  
+🧠 Currently building apps with **Next.js**, **Prisma**, **PostgreSQL**, **React Query**  
+📱 Passionate about mobile apps with **Expo** and **React Native**  
+🌐 Love building web tools, PWAs, and backend APIs  
+📬 Reach me at: bhuwan@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
+
+## 📈 GitHub Stats
+![Bhuwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan-darai&show_icons=true&theme=radical)
+
