@@ -6,7 +6,7 @@
 🧠 Currently building apps with **Next.js**, **Prisma**, **PostgreSQL**, **React Query**  
 📱 Passionate about mobile apps with **Expo** and **React Native**  
 🌐 Love building web tools, PWAs, and backend APIs  
-📬 Reach me at: bhuwan@example.com
+📬 Reach me at: bhuwandarai39@gmail.com
 
 ## 🛠️ Technologies & Tools
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
