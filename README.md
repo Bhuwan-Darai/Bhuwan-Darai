@@ -4,7 +4,10 @@
 🎓 B.Ed IT Graduate from Tribhuwan University  
 💼 Working at Inpro Academy  
 🧠 Currently building apps with **Next.js**, **Prisma**, **PostgreSQL**, **React Query**  
-📱 Passionate about mobile apps with **Expo** and **React Native**  
+📱 Passionate about mobile apps with **Expo** and **React Native**
+
+Currently exploring golang with framework fiber go, go orm, and gqlgen to develop efficient and low hungry backends.
+
 🌐 Love building web tools, PWAs, and backend APIs  
 📬 Reach me at: bhuwandarai39@gmail.com
 
